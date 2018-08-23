@@ -28,6 +28,7 @@ function switchOnCharmFromTip(tip) {
       break;
     case 'not as generous':
       response = "Thank you";
+      break;
     default:
       response = "Bye.";
   }
