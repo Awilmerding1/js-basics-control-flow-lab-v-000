@@ -13,3 +13,5 @@ function scuberGreetingForFeet(distance) {
   }
   
 }
+
+function terneryCheckCity()
